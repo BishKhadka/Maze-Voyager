@@ -1,0 +1,14 @@
+# IDE-specific files
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+*.class
+
+# Java Graphics GUI components
+*.jar
+
+# macOS file
+.DS_Store

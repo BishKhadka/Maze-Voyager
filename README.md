@@ -56,6 +56,13 @@ https://github.com/BishKhadka/Maze-Voyager/assets/12107885/6467b5af-74e7-4bb0-93
 
 <img width="600" alt="BFS Picture" src="https://github.com/BishKhadka/Maze-Voyager/assets/12107885/51fcbecf-03dd-4958-99bb-e66f6599a510">
 
+## Other Projects
+
+Check out some of my other projects [here](https://github.com/Khadka-Bishal). 
+
+
+## Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadka-bishal/)
 
 
 
